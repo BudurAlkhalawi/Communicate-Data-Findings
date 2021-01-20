@@ -1,8 +1,5 @@
 # Flights
 
-## by Budur Alkhalawi
-
-
 ## Dataset
 
 > I choosed Flight delays dataset from RITA website which contained information on flight delays and reasonses. The link of download dataset is,
